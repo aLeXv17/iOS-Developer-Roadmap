@@ -169,9 +169,9 @@ Tapping on a link will take you to relevant materials.
             - [ ] Decrease memory footprint
         - [ ] Code signing
         - [ ] Tools
-            - [ ] IDE
-                - [ ] Xcode
-                    - [ ] [Interface Builder](Resources/iOS_Developer/Practical_knowledge/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)
+            - [ x ] IDE
+                - [ x ] Xcode
+                    - [ x ] [Interface Builder](Resources/iOS_Developer/Practical_knowledge/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)
             - [ ] Swiftlint
             - [ ] Sourcery
             - [ ] [Fastlane](Resources/iOS_Developer/Practical_knowledge/Tools/Fastlane/RESOURCES.md)

@@ -217,6 +217,6 @@ Tapping on a link will take you to relevant materials.
             - [ ] Object-Oriented
             - [ ] Functional
                 - [ ] Functional Reactive Programming Frameworks
-                    - [ ] React Native
-                    - [ ] [RxSwift](Resources/iOS_Developer/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
-                    - [ ] RxRealm, RxDataSources
+                    - [-] React Native
+                    - [-] [RxSwift](Resources/iOS_Developer/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
+                    - [-] RxRealm, RxDataSources
